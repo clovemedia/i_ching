@@ -1,2 +1,82 @@
 # i_ching
 I Ching Wilhelm Baynes Translation
+
+## Introduction
+
+The I Ching or Book of Changes is an ancient Chinese book with a number of
+existing translations.
+
+The I Ching as translated from the Chinese into German by Richard Wilhelm and
+rendered into English by Cary F. Baynes (1950) has become a well respected
+classic. It is available as a printed book by the Bollingen Foundation published
+by Princeton University Press. The book includes a Foreward by C. G. Jung, the
+text of the I Ching and additional materials discussing the history, the
+Trigrams, the underlying principles, and the Commentaries.
+
+## Origin and purpose of this project
+
+The purpose of this project is to provide an electronic version of the text
+related to the hexagrams, as found in the first part of the Wilhelm/Baynes
+translation, and to provide a pdf version that can be downloaded for offline use
+on a mobile phone or ebook reader.
+
+It is available as a git repository to allow for corrections and improvements.
+
+The project is a further adaptation of the work presented on the website
+[deYoung I Ching Wilhelm Translation](http://www2.unipr.it/~deyoung/I_Ching_Wilhelm_Translation.html)
+
+The translation is also available on other websites. For example it is found at
+[I Ching - The Translation](https://aspectsoftao.net/iching/translation.html)
+
+## Features of this project
+
+In this project the text from the previously noted website was used as a
+starting point and has been improved with corrections including: typos,
+occasional omissions, incorrect references, and removal of duplicated phrases.
+
+The index table has been enhanced and appears similar to that found in the book
+with the names of the trigrams and the symbolic representations. The trigram
+images have also been added to each hexagram as they appear in the book.
+
+Appendices have also been added. First, the appendix "Consulting the Oracle" as
+found in the book has been added including "The Yarrow Stalk Oracle" and
+"The Coin Oracle". The section on moving lines giving rise to a new hexagram is
+specifically highlighted as it is essential to understanding how to use the
+oracle.
+
+A new appendix, not found in the book by Wilhelm and Baynes, has been added that
+explores the "Mathematical Analysis & Alternate Coin Method".
+
+## Utility of pdf version
+
+During the creation of this project it was noted that a pdf version offers
+tremendous utility providing a single file with active hyperlinks, like the web
+page, that can be stored locally on a computer or mobile device for easy
+reference.
+
+A pdf file can be created from the web page however for this to work correctly
+with hyperlinks that resolve to the target sections in the pdf document it may
+be necessary to use the Chrome browser with the Print and "Save to PDF"
+function. To ensure a pdf file is created that can be easily read on a small
+device like a phone the html document uses @page attributes specifying a narrow
+page width. A longer than usual page length is used to ensure the index table
+appears unbroken.
+
+A copy of the pdf file has been added to the project to allow easy downloads.
+
+## Future Enhancements - A gender neutral version
+
+The I Ching or Book of Changes is an ancient Chinese book that provides wisdom
+and guidance for all time. However, some people may find it is not easy for
+them to relate to it because of the gender references in phrases, such as
+"the superior man", and references to the roles of men and women as existed in
+ancient times, and also the gender pronouns used throughout the text.
+
+This raises a thought that if the text is transformed into a gender neutral
+version it may be better appreciated by more people. However, such an
+undertaking will no doubt take much effort and consideration. This project may
+provide for such an effort through a fork of the git repository.
+
+The End.
+--------
+

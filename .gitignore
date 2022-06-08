@@ -1,0 +1,16 @@
+# .gitignore for github repo and dev platform
+
+# Ignore OS related files.
+# MacOS.
+.DS_Store
+
+# Ignore cgi-bin folder and files.
+cgi-bin
+# Ignore .ftpquota folder and files.
+.ftpquota
+
+# Ignore backup and patch files
+*.patch
+*.bak
+*.orig
+
