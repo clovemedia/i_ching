@@ -1,6 +1,8 @@
 # i_ching
 I Ching Wilhelm Baynes Translation
 
+To view as a web page go to [https://clovemedia.github.io/i_ching/](https://clovemedia.github.io/i_ching/)
+
 ## Introduction
 
 The I Ching or Book of Changes is an ancient Chinese book with a number of
@@ -47,12 +49,11 @@ oracle.
 A new appendix, not found in the book by Wilhelm and Baynes, has been added that
 explores the "Mathematical Analysis & Alternate Coin Method".
 
-## Utility of pdf version
+## Usefulness of pdf version
 
-During the creation of this project it was noted that a pdf version offers
-tremendous utility providing a single file with active hyperlinks, like the web
-page, that can be stored locally on a computer or mobile device for easy
-reference.
+During the creation of this project it was noted that a pdf version offers the
+usefulness of providing a single file with active hyperlinks, like the web page,
+that can be stored locally on a computer or mobile device for easy reference.
 
 A pdf file can be created from the web page however for this to work correctly
 with hyperlinks that resolve to the target sections in the pdf document it may
@@ -63,6 +64,23 @@ narrow page width. A longer than usual page length is used to ensure the index
 table rows are not separated.
 
 A copy of the pdf file has been added to the project to allow easy downloads.
+
+## What happened to citations of Goethe in the German translation?
+
+In a forum post on the Internet someone notes:
+
+> One thing, among a few, that has always bothered me about the Baynes English
+> translation (of Wilhelm's I Ching) was his decision to remove all of the
+> latter's citations of Goethe; and at this late stage in time, I have pretty
+> much given up all hope of ever seeing a new English translation of Wilhelm's
+> German edition, though I believe one is more than warranted.
+> 
+> Yen Hui
+
+[Wilhelm's German Translation of the I Ching](https://www.onlineclarity.co.uk/friends/index.php?threads/wilhelms-german-translation-of-the-i-ching.15901/post-166444https://www.onlineclarity.co.uk/friends/index.php?threads/wilhelms-german-translation-of-the-i-ching.15901/post-166444)
+
+It would certainly be interesting to see the citations of Goethe that Richard
+Wilhelm included in his German Translation of the I Ching.
 
 ## Future Enhancements - A gender neutral version
 
