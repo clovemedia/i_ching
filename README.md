@@ -58,9 +58,9 @@ A pdf file can be created from the web page however for this to work correctly
 with hyperlinks that resolve to the target sections in the pdf document it may
 be necessary to use the Chrome browser with the Print and "Save to PDF"
 function. To ensure a pdf file is created that can be easily read on a small
-device like a phone the html document uses @page attributes specifying a narrow
-page width. A longer than usual page length is used to ensure the index table
-appears unbroken.
+device like a phone the html document uses the CSS @page element specifying a
+narrow page width. A longer than usual page length is used to ensure the index
+table rows are not separated.
 
 A copy of the pdf file has been added to the project to allow easy downloads.
 
