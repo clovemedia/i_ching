@@ -62,8 +62,8 @@ with hyperlinks that resolve to the target sections in the pdf document it may
 be necessary to use the Chrome browser with the Print and "Save to PDF"
 function. To ensure a pdf file is created that can be easily read on a small
 device like a phone the html document uses the CSS @page element specifying a
-narrow page width. A longer than usual page length is used to ensure the index
-table rows are not separated.
+narrow page width. The page length used is to ensure the index table rows are
+not separated across a page break.
 
 To create the pdf file with Chrome browser: first, clear the browser cache and
 history to ensure none of the hyperlinks within the page will appear as visited,
