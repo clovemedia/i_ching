@@ -55,7 +55,9 @@ During the creation of this project it was noted that a pdf version offers the
 usefulness of providing a single file with active hyperlinks, like the web page,
 that can be stored locally on a computer or mobile device for easy reference.
 
-A pdf file can be created from the web page however for this to work correctly
+A copy of the pdf file has been added to the project to allow easy downloads.
+
+A pdf file can be created from the web page, however for this to work correctly
 with hyperlinks that resolve to the target sections in the pdf document it may
 be necessary to use the Chrome browser with the Print and "Save to PDF"
 function. To ensure a pdf file is created that can be easily read on a small
@@ -63,7 +65,12 @@ device like a phone the html document uses the CSS @page element specifying a
 narrow page width. A longer than usual page length is used to ensure the index
 table rows are not separated.
 
-A copy of the pdf file has been added to the project to allow easy downloads.
+To create the pdf file with Chrome browser: first, clear the browser cache and
+history to ensure none of the hyperlinks within the page will appear as visited,
+then visit or refresh the html page (I_Ching_Wilhelm_Baynes_Translation.html).
+Go to Print function: select "Save to PDF"; under Options uncheck Headers and
+footers, check Background graphics; finally ensure margins are set to "none".
+Confirm preview appears as desired and click save.
 
 ## What happened to citations of Goethe in the German translation?
 
